@@ -6,7 +6,7 @@ Explore the world with the **Global Map Routing** application. This web-based to
 
 - **Interactive Map Viewing**: Navigate through different geographical locations using an interactive map interface.
 - **Media Uploads**: Users can upload images and videos related to specific locations or routes.
-- **Real-Time Data Handling**: The server processes and serves media and other data in real-time.
+- **Real-Time Data Handling**: The server processes and serves media and other data in real time.
 
 ## 📁 File Structure
 
@@ -27,7 +27,7 @@ Explore the world with the **Global Map Routing** application. This web-based to
 3. Start the server:
    ```bash
    node server/server.js
-4. Open a web browser and go to `http://localhost:3000` to access the application.
+4. Open a web browser and go to `http://localhost:3001` to access the application.
 
 ## 🧪 Testing
 
@@ -37,7 +37,7 @@ Explore the world with the **Global Map Routing** application. This web-based to
 
 ## 🧠 Technical Details
 
-- **Client-Side Technology**: HTML, CSS, and JavaScript are used for the frontend.
+- **Client-Side Technology**: HTML, CSS, and JavaScript are used for the front end.
 - **Server-Side Technology**: Node.js is used for backend operations.
 - **Data Handling**: Media files are handled and stored in the `/uploads` directory.
 
